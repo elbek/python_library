@@ -1,0 +1,121 @@
+----------------------------------------2014-12-28 20:21:34-----------------------------------------
+          User JAMES book history                 
+
+          User JOHN book history                  
+
+          User ROBERT book history                
+
+          User MICHAEL book history               
+
+          User WILLIAM book history               
+
+          User DAVID book history                 
+
+          User RICHARD book history               
+
+          User CHARLES book history               
+
+          User JOSEPH book history                
+
+               2 Samuel             ==> 2014-12-28 20:21:13                               
+
+          User THOMAS book history                
+
+               Ruth                 ==> 2014-12-28 20:21:04                               
+
+          User CHRISTOPHER book history           
+
+          User DANIEL book history                
+
+          User PAUL book history                  
+
+          User MARK book history                  
+
+               1 Samuel             ==> 2014-12-28 20:20:38                               
+
+          User DONALD book history                
+
+          User GEORGE book history                
+
+               Joel                 ==> 2014-12-28 20:20:38                               
+
+          User KENNETH book history               
+
+          User STEVEN book history                
+
+          User EDWARD book history                
+
+          User BRIAN book history                 
+
+----------------------------------------2014-12-28 20:25:18-----------------------------------------
+          User JAMES book history                 
+
+          User JOHN book history                  
+
+          User ROBERT book history                
+
+          User MICHAEL book history               
+
+          User WILLIAM book history               
+
+          User DAVID book history                 
+
+               Malachi              ==> 2014-12-28 20:22:50                               
+
+          User RICHARD book history               
+
+          User CHARLES book history               
+
+          User JOSEPH book history                
+
+               2 Samuel             ==> 2014-12-28 20:21:13                               
+               Isaiah               ==> 2014-12-28 20:22:59                               
+               Ruth                 ==> 2014-12-28 20:24:27                               
+               1 Corinthians        ==> 2014-12-28 20:25:04                               
+
+          User THOMAS book history                
+
+               Ruth                 ==> 2014-12-28 20:21:04                               
+               Amos                 ==> 2014-12-28 20:21:51                               
+               Nahum                ==> 2014-12-28 20:23:19                               
+
+          User CHRISTOPHER book history           
+
+               Daniel               ==> 2014-12-28 20:23:17                               
+
+          User DANIEL book history                
+
+               1 Chronicles         ==> 2014-12-28 20:23:59                               
+               Isaiah               ==> 2014-12-28 20:24:38                               
+
+          User PAUL book history                  
+
+               Habakkuk             ==> 2014-12-28 20:22:05                               
+               Job                  ==> 2014-12-28 20:22:27                               
+
+          User MARK book history                  
+
+               1 Samuel             ==> 2014-12-28 20:20:38                               
+               2 John               ==> 2014-12-28 20:23:43                               
+
+          User DONALD book history                
+
+          User GEORGE book history                
+
+               Joel                 ==> 2014-12-28 20:20:38                               
+               Numbers              ==> 2014-12-28 20:22:30                               
+
+          User KENNETH book history               
+
+               Proverbs             ==> 2014-12-28 20:21:44                               
+
+          User STEVEN book history                
+
+               Ezekiel              ==> 2014-12-28 20:24:07                               
+
+          User EDWARD book history                
+
+               Psalms               ==> 2014-12-28 20:25:02                               
+
+          User BRIAN book history                 
+
