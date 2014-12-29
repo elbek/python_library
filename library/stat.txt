@@ -1,121 +1,263 @@
-----------------------------------------2014-12-28 20:21:34-----------------------------------------
+----------------------------------------2014-12-28 21:03:19-----------------------------------------
           User JAMES book history                 
 
           User JOHN book history                  
 
+               James                ==> 2014-12-28 21:01:10                               
+               Haggai               ==> 2014-12-28 21:01:19                               
+               2 Peter              ==> 2014-12-28 21:02:40                               
+
           User ROBERT book history                
+
+               Habakkuk             ==> 2014-12-28 21:00:52                               
+               2 John               ==> 2014-12-28 21:00:55                               
+               Psalms               ==> 2014-12-28 21:00:55                               
+               Numbers              ==> 2014-12-28 21:01:47                               
 
           User MICHAEL book history               
 
+               Ephesians            ==> 2014-12-28 21:01:42                               
+               Titus                ==> 2014-12-28 21:03:09                               
+
           User WILLIAM book history               
+
+               Jeremiah             ==> 2014-12-28 21:01:00                               
 
           User DAVID book history                 
 
+               2 Thessalonians      ==> 2014-12-28 21:00:45                               
+               2 Timothy            ==> 2014-12-28 21:01:34                               
+               Galatians            ==> 2014-12-28 21:02:16                               
+               Revelation           ==> 2014-12-28 21:02:54                               
+               Zephaniah            ==> 2014-12-28 21:03:14                               
+
           User RICHARD book history               
+
+               Ezekiel              ==> 2014-12-28 21:01:43                               
+               Psalms               ==> 2014-12-28 21:01:54                               
+               Numbers              ==> 2014-12-28 21:02:54                               
 
           User CHARLES book history               
 
+               1 Peter              ==> 2014-12-28 21:01:03                               
+               Nehemiah             ==> 2014-12-28 21:01:27                               
+               Ecclesiastes         ==> 2014-12-28 21:02:03                               
+               Acts (of the Apostles) ==> 2014-12-28 21:02:27                               
+
           User JOSEPH book history                
 
-               2 Samuel             ==> 2014-12-28 20:21:13                               
+               1 Timothy            ==> 2014-12-28 21:01:52                               
+               Nehemiah             ==> 2014-12-28 21:01:58                               
+               Proverbs             ==> 2014-12-28 21:02:35                               
 
           User THOMAS book history                
 
-               Ruth                 ==> 2014-12-28 20:21:04                               
+               1 Peter              ==> 2014-12-28 21:01:25                               
+               2 Chronicles         ==> 2014-12-28 21:02:18                               
+               Luke                 ==> 2014-12-28 21:02:59                               
 
           User CHRISTOPHER book history           
 
+               Genesis              ==> 2014-12-28 21:01:11                               
+               Amos                 ==> 2014-12-28 21:01:31                               
+               Titus                ==> 2014-12-28 21:01:47                               
+               Zechariah            ==> 2014-12-28 21:02:21                               
+
           User DANIEL book history                
+
+               James                ==> 2014-12-28 21:01:15                               
+               Song of Solomon      ==> 2014-12-28 21:01:22                               
+               Hebrews              ==> 2014-12-28 21:02:49                               
 
           User PAUL book history                  
 
+               Psalms               ==> 2014-12-28 21:00:48                               
+               1 Timothy            ==> 2014-12-28 21:01:34                               
+               Malachi              ==> 2014-12-28 21:02:13                               
+               1 Peter              ==> 2014-12-28 21:02:30                               
+
           User MARK book history                  
 
-               1 Samuel             ==> 2014-12-28 20:20:38                               
+               Zechariah            ==> 2014-12-28 21:00:59                               
+               Revelation           ==> 2014-12-28 21:02:08                               
+               Jonah                ==> 2014-12-28 21:02:32                               
+               Numbers              ==> 2014-12-28 21:03:01                               
 
           User DONALD book history                
 
+               2 Peter              ==> 2014-12-28 21:02:38                               
+               Obadiah              ==> 2014-12-28 21:02:42                               
+
           User GEORGE book history                
 
-               Joel                 ==> 2014-12-28 20:20:38                               
+               Amos                 ==> 2014-12-28 21:01:23                               
+               2 Chronicles         ==> 2014-12-28 21:01:39                               
+               1 Chronicles         ==> 2014-12-28 21:02:35                               
 
           User KENNETH book history               
 
+               John                 ==> 2014-12-28 21:00:45                               
+               1 Kings              ==> 2014-12-28 21:01:07                               
+               Acts (of the Apostles) ==> 2014-12-28 21:01:50                               
+               1 Peter              ==> 2014-12-28 21:02:28                               
+               Jude                 ==> 2014-12-28 21:03:13                               
+
           User STEVEN book history                
+
+               2 Kings              ==> 2014-12-28 21:01:02                               
+               Jonah                ==> 2014-12-28 21:01:15                               
+               Mark                 ==> 2014-12-28 21:02:25                               
+               Colossians           ==> 2014-12-28 21:03:05                               
 
           User EDWARD book history                
 
+               Hosea                ==> 2014-12-28 21:00:50                               
+               Joel                 ==> 2014-12-28 21:01:06                               
+               2 Corinthians        ==> 2014-12-28 21:02:05                               
+               Mark                 ==> 2014-12-28 21:02:07                               
+               Esther               ==> 2014-12-28 21:02:12                               
+
           User BRIAN book history                 
 
-----------------------------------------2014-12-28 20:25:18-----------------------------------------
+               Esther               ==> 2014-12-28 21:01:20                               
+               Joshua               ==> 2014-12-28 21:01:38                               
+               Titus                ==> 2014-12-28 21:02:23                               
+
+----------------------------------------2014-12-28 21:04:07-----------------------------------------
           User JAMES book history                 
+
+               Ezra                 ==> 2014-12-28 21:03:29                               
 
           User JOHN book history                  
 
+               James                ==> 2014-12-28 21:01:10                               
+               Haggai               ==> 2014-12-28 21:01:19                               
+               2 Peter              ==> 2014-12-28 21:02:40                               
+
           User ROBERT book history                
+
+               Habakkuk             ==> 2014-12-28 21:00:52                               
+               2 John               ==> 2014-12-28 21:00:55                               
+               Psalms               ==> 2014-12-28 21:00:55                               
+               Numbers              ==> 2014-12-28 21:01:47                               
 
           User MICHAEL book history               
 
+               Ephesians            ==> 2014-12-28 21:01:42                               
+               Titus                ==> 2014-12-28 21:03:09                               
+
           User WILLIAM book history               
+
+               Jeremiah             ==> 2014-12-28 21:01:00                               
 
           User DAVID book history                 
 
-               Malachi              ==> 2014-12-28 20:22:50                               
+               2 Thessalonians      ==> 2014-12-28 21:00:45                               
+               2 Timothy            ==> 2014-12-28 21:01:34                               
+               Galatians            ==> 2014-12-28 21:02:16                               
+               Revelation           ==> 2014-12-28 21:02:54                               
+               Zephaniah            ==> 2014-12-28 21:03:14                               
+               Mark                 ==> 2014-12-28 21:03:32                               
+               Luke                 ==> 2014-12-28 21:03:48                               
+               Jude                 ==> 2014-12-28 21:03:55                               
 
           User RICHARD book history               
 
+               Ezekiel              ==> 2014-12-28 21:01:43                               
+               Psalms               ==> 2014-12-28 21:01:54                               
+               Numbers              ==> 2014-12-28 21:02:54                               
+               Colossians           ==> 2014-12-28 21:04:00                               
+
           User CHARLES book history               
+
+               1 Peter              ==> 2014-12-28 21:01:03                               
+               Nehemiah             ==> 2014-12-28 21:01:27                               
+               Ecclesiastes         ==> 2014-12-28 21:02:03                               
+               Acts (of the Apostles) ==> 2014-12-28 21:02:27                               
 
           User JOSEPH book history                
 
-               2 Samuel             ==> 2014-12-28 20:21:13                               
-               Isaiah               ==> 2014-12-28 20:22:59                               
-               Ruth                 ==> 2014-12-28 20:24:27                               
-               1 Corinthians        ==> 2014-12-28 20:25:04                               
+               1 Timothy            ==> 2014-12-28 21:01:52                               
+               Nehemiah             ==> 2014-12-28 21:01:58                               
+               Proverbs             ==> 2014-12-28 21:02:35                               
 
           User THOMAS book history                
 
-               Ruth                 ==> 2014-12-28 20:21:04                               
-               Amos                 ==> 2014-12-28 20:21:51                               
-               Nahum                ==> 2014-12-28 20:23:19                               
+               1 Peter              ==> 2014-12-28 21:01:25                               
+               2 Chronicles         ==> 2014-12-28 21:02:18                               
+               Luke                 ==> 2014-12-28 21:02:59                               
+               Nahum                ==> 2014-12-28 21:03:35                               
 
           User CHRISTOPHER book history           
 
-               Daniel               ==> 2014-12-28 20:23:17                               
+               Genesis              ==> 2014-12-28 21:01:11                               
+               Amos                 ==> 2014-12-28 21:01:31                               
+               Titus                ==> 2014-12-28 21:01:47                               
+               Zechariah            ==> 2014-12-28 21:02:21                               
+               1 Timothy            ==> 2014-12-28 21:03:30                               
+               1 John               ==> 2014-12-28 21:03:50                               
 
           User DANIEL book history                
 
-               1 Chronicles         ==> 2014-12-28 20:23:59                               
-               Isaiah               ==> 2014-12-28 20:24:38                               
+               James                ==> 2014-12-28 21:01:15                               
+               Song of Solomon      ==> 2014-12-28 21:01:22                               
+               Hebrews              ==> 2014-12-28 21:02:49                               
 
           User PAUL book history                  
 
-               Habakkuk             ==> 2014-12-28 20:22:05                               
-               Job                  ==> 2014-12-28 20:22:27                               
+               Psalms               ==> 2014-12-28 21:00:48                               
+               1 Timothy            ==> 2014-12-28 21:01:34                               
+               Malachi              ==> 2014-12-28 21:02:13                               
+               1 Peter              ==> 2014-12-28 21:02:30                               
 
           User MARK book history                  
 
-               1 Samuel             ==> 2014-12-28 20:20:38                               
-               2 John               ==> 2014-12-28 20:23:43                               
+               Zechariah            ==> 2014-12-28 21:00:59                               
+               Revelation           ==> 2014-12-28 21:02:08                               
+               Jonah                ==> 2014-12-28 21:02:32                               
+               Numbers              ==> 2014-12-28 21:03:01                               
 
           User DONALD book history                
 
+               2 Peter              ==> 2014-12-28 21:02:38                               
+               Obadiah              ==> 2014-12-28 21:02:42                               
+               Obadiah              ==> 2014-12-28 21:03:23                               
+
           User GEORGE book history                
 
-               Joel                 ==> 2014-12-28 20:20:38                               
-               Numbers              ==> 2014-12-28 20:22:30                               
+               Amos                 ==> 2014-12-28 21:01:23                               
+               2 Chronicles         ==> 2014-12-28 21:01:39                               
+               1 Chronicles         ==> 2014-12-28 21:02:35                               
 
           User KENNETH book history               
 
-               Proverbs             ==> 2014-12-28 20:21:44                               
+               John                 ==> 2014-12-28 21:00:45                               
+               1 Kings              ==> 2014-12-28 21:01:07                               
+               Acts (of the Apostles) ==> 2014-12-28 21:01:50                               
+               1 Peter              ==> 2014-12-28 21:02:28                               
+               Jude                 ==> 2014-12-28 21:03:13                               
+               John                 ==> 2014-12-28 21:03:55                               
 
           User STEVEN book history                
 
-               Ezekiel              ==> 2014-12-28 20:24:07                               
+               2 Kings              ==> 2014-12-28 21:01:02                               
+               Jonah                ==> 2014-12-28 21:01:15                               
+               Mark                 ==> 2014-12-28 21:02:25                               
+               Colossians           ==> 2014-12-28 21:03:05                               
 
           User EDWARD book history                
 
-               Psalms               ==> 2014-12-28 20:25:02                               
+               Hosea                ==> 2014-12-28 21:00:50                               
+               Joel                 ==> 2014-12-28 21:01:06                               
+               2 Corinthians        ==> 2014-12-28 21:02:05                               
+               Mark                 ==> 2014-12-28 21:02:07                               
+               Esther               ==> 2014-12-28 21:02:12                               
+               Luke                 ==> 2014-12-28 21:03:40                               
 
           User BRIAN book history                 
+
+               Esther               ==> 2014-12-28 21:01:20                               
+               Joshua               ==> 2014-12-28 21:01:38                               
+               Titus                ==> 2014-12-28 21:02:23                               
+               Micah                ==> 2014-12-28 21:03:38                               
 

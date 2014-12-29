@@ -17,7 +17,7 @@ def get_random_book():
 
 def get_random_user():
     global library
-    rnd = random.randint(1, len(library.users) - 1)
+    rnd = random.randint(0, len(library.users) - 1)
     return library.users[rnd]
 
 
@@ -27,7 +27,7 @@ def giver():
         book = get_random_book()
         user = get_random_user()
         library.give(user, book)
-        time.sleep(random.randint(20, 40))
+        time.sleep(random.randint(3, 5))
 
 
 def returner():
@@ -37,14 +37,14 @@ def returner():
         bk = user.get_random_book()
         if bk is not None:
             library.return_b(user, user.get_random_book())
-        time.sleep(random.randint(20, 40))
+        time.sleep(random.randint(5, 7))
 
 
 def stat():
     while True:
         arg = raw_input("Insert stat to see the current book history status... \n")
         if arg == 'stat':
-            with open("stat.txt", "a") as f:
+            with open("stat.txt", "a+") as f:
                 f.write(datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S").center(100, '-') + "\n")
                 for u in library.users:
                     f.write(str(10 * " " + "User " + u.name + " book history").ljust(50))
